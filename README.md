@@ -31,3 +31,10 @@ Este script em Python realiza a **descriptografia** de um arquivo previamente cr
 Este código realiza a descriptografia de um arquivo criptografado utilizando a mesma chave de criptografia usada originalmente, recuperando os dados ao seu estado original.
 
 ---
+
+### Por dentro do código
+
+
+https://github.com/user-attachments/assets/f1afef0f-991c-40fd-9cc0-3dc19a854b0e
+
+
