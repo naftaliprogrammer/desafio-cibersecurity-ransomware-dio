@@ -1,11 +1,8 @@
 # desafio-cibersecurity-ransomware-dio
 Esse scrip é um desafio, feito em Python para criptografar arquivos usando AES (Advanced Encryption Standard) e descriptografar o arquivo utilizando a mesma chave.
 
-Aqui estão os **resumos** dos códigos de criptografia e descriptografia:
 
----
-
-### Resumo do Código de Criptografia
+###  Código de Criptografia
 
 Este script em Python realiza a **criptografia** de um arquivo utilizando o **AES (Advanced Encryption Standard)** no modo **CTR** (Counter Mode). Ele realiza as seguintes etapas:
 
@@ -20,7 +17,7 @@ Este código realiza a criptografia de um arquivo com a chave fornecida e o algo
 
 ---
 
-### Resumo do Código de Descriptografia
+### Código de Descriptografia
 
 Este script em Python realiza a **descriptografia** de um arquivo previamente criptografado utilizando o **AES (Advanced Encryption Standard)** no modo **CTR**. Ele segue as etapas abaixo:
 
@@ -34,5 +31,3 @@ Este script em Python realiza a **descriptografia** de um arquivo previamente cr
 Este código realiza a descriptografia de um arquivo criptografado utilizando a mesma chave de criptografia usada originalmente, recuperando os dados ao seu estado original.
 
 ---
-
-Esses resumos explicam brevemente o funcionamento de cada script e podem ser usados em documentação ou para entender rapidamente o que cada código faz.
